@@ -1,0 +1,23 @@
+{
+  "pessoas": [
+    {
+      "nome": "Maria Souza Oliveira",
+      "idade": 160,
+      "email": "maria.souzamail.com",
+      "id": "1"
+    },
+    {
+      "nome": "Maria Souza Oliveira",
+      "idade": 33,
+      "email": "maria.souza@email.com",
+      "id": "2"
+    },
+    {
+      "nome": "Ana Souza",
+      "idade": 25,
+      "email": "ana@email.com",
+      "id": "bAIUIPQ3UcY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
